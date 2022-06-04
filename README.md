@@ -1,4 +1,4 @@
-# Slag-Optimization-in-the-Elecroslag-Remelting-Process-Using-Python
+# Slag-Optimization-in-the-Electroslag-Remelting-Process-Using-Python
 Construction of Python function to Design the SLAG in Electro-Slag Remelting through Thermodynamic Modeling
 
 An attempt has been made to optimize slag chemistry used in ESR process through thermodynamic modeling for minimizing the loss of oxidizing elements thereby minimizing inclusions.
