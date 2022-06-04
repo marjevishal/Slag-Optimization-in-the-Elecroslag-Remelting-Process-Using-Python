@@ -5,5 +5,5 @@ An attempt has been made to optimize slag chemistry used in ESR process through 
 In this study it was assumed that homogeneous composition of the alloying elements is maintained throughout the length of ingot but practically there are variations in the compositions due to dynamic conditions
 Initially model was validated with experimental data available in the literature and subsequently applied to our ESR grades.
 
-# We can produce homogenous and clean steel refined steel ingot using the model as a guidance to optimise deoxidation technique during the industrial ESR process.
+# Using the model as a guideline to optimise deoxidation procedure during the industrial ESR process, we can manufacture homogeneous and clean steel refined steel ingots. 
 
